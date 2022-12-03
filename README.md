@@ -1,3 +1,3 @@
 # AirBnB Data Analysis Project - (Travel Data Analysis)
 
-![Airbnb-IPO-27-08-20-HERO-v2](https://user-images.githubusercontent.com/88886118/205447891-25113cc0-f3a2-415b-a30f-b6e8d2e6341a.jpeg)
+![Airbnb-to-disrupt-luxury-hotel-market-with-expected-acquisition-768x432](https://user-images.githubusercontent.com/88886118/205448343-1ed041cd-4cf2-4ae6-94dc-2c33e6b3b9be.jpeg)
