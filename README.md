@@ -81,5 +81,9 @@ Manhattan is most expensive borough in each of the room types, Brooklyn follows 
 
 * There are many rentals with no availability, on further analysing we get these are the rentals with minimum prices, this might be reason for no availabilty as these are pre booked by the customers.
 
-* All in all in terms of hosts we can say for planning a new hosting they should try to look for Manhattan and Brooklyn and also try to keep minimum nights as 1 and also try to provide private room or entire home instead of shared rooms
+* All in all in terms of hosts we can say for planning a new hosting they should try to look for Manhattan and Brooklyn and also try to keep minimum nights as 1 and also try to provide private room or entire home instead of shared rooms.
+
+# 📖 Documentation
+
+[Technical Document - Airbnb .docx.pdf](https://github.com/smriti192002/AirbnbNYC_2019_Analysis/files/10146917/Technical.Document.-.Airbnb.docx.pdf)
 
