@@ -85,11 +85,9 @@ Manhattan is most expensive borough in each of the room types, Brooklyn follows 
 
 # 📖 Documentation
 
-[Technical Document] - Airbnb .docx.pdf](https://github.com/smriti192002/AirbnbNYC_2019_Analysis/files/10146917/Technical.Document.-.Airbnb.docx.pdf)
+[AirBnB Data Analysis presentation](https://github.com/smriti192002/AirbnbNYC_2019_Analysis/blob/main/Documents/AirBnB%20Data%20Analysis%20presentation%20(1)%20(1).pptx)
 
-[Project_Summary_airbnb.pdf](https://github.com/smriti192002/AirbnbNYC_2019_Analysis/files/10146919/Project_Summary_airbnb.pdf)
-
-[AirBnB Data Analysis presentation (1) (1) (1).pptx](https://github.com/smriti192002/AirbnbNYC_2019_Analysis/files/10146921/AirBnB.Data.Analysis.presentation.1.1.1.pptx)
+[Project_Summary_airbnb.pdf](https://github.com/smriti192002/AirbnbNYC_2019_Analysis/blob/main/Documents/Project_Summary_airbnb.pdf)
 
 [Technical Document](https://github.com/smriti192002/AirbnbNYC_2019_Analysis/blob/main/Documents/Technical%20Document%20-%20Airbnb%20.docx.pdf)
 
