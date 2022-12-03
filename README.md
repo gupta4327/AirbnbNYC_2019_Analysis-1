@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84115928/142564472-5aa50b45-98a6-4c48-8aeb-e58a3daa601a.png">
+  <img src="Airbnb-IPO-27-08-20-HERO-v2.jpeg">
 </p>
