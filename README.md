@@ -41,7 +41,7 @@ Availability 365 - It is the no. of days for which a rental is available to book
 
 # 🖥️ Technologies:
 ## 🛠️ Tools Used
-* Jupyter Notebook is used as IDE. 
+* collabnotebook is used as IDE. 
 * Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
 * Exploratory data analysis with the help of various library
 * For visualization of the plots, Matplotlib, Seaborn, Plotly are used.
