@@ -10,17 +10,31 @@ Since 2008, guests and hosts have used Airbnb to broaden their travel options an
 this dataset has around 49,000 observations in it with 16 columns and it is a mix between categorical and numeric values.*
 
 ID - ID is just an unique identifier of each row.
+
 Name - It is a rental name which user sees while booking(hotel name).
+
 Host ID - Every host on Airbnb gets an unique host id, host id here represents that id only.
+
 Host name - Name of the host.
+
 Neighbourhood_group - Whole New York is divied into 5 neighbourhood_group(boroughs) regionally. It shows in which borough particular listing is located.
+
 Neighbourhood - Each borough is further sub divided into neighbourhoods. This column shows the neighbourhood of particular listing.
+
 Latitude and longitude - These shows the geographical positions of a rental.
+
 Room_Type - Which room type a rental is offering.
+
 Price - Price per night that a rental is charging.
+
 Minimum Nights - For this much of nights minimally rental can be booked.
+
 Number of reviews - Number of reviews a rental has got till now.
+
 Review Per month - An average no. of reviews that a rental got per month.
+
 Last review - Date on which a rental got their last review.
+
 calculated_host_listings_count - It is the no. of rentals a host is hosting in the dataset.
+
 Availability 365 - It is the no. of days for which a rental is available to book.
