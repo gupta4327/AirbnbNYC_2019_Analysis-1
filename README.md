@@ -1,4 +1,14 @@
 # AirBnB Data Analysis Project - (Travel Data Analysis)
+<p align="center">
+
+  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+  
+  ![GitHub stars](https://img.shields.io/github/stars/Lokesh-Attarde/Airbnb-Data-Analysis)
+  ![GitHub forks](https://img.shields.io/github/forks/Lokesh-Attarde/Airbnb-Data-Analysis)
+  [![GitHub contributors](https://img.shields.io/github/contributors/Lokesh-Attarde/Airbnb-Data-Analysis.svg)](https://GitHub.com/Lokesh-Attarde/Airbnb-Data-Analysis/graphs/contributors/)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+</p>  
 
 ![Airbnb-to-disrupt-luxury-hotel-market-with-expected-acquisition-768x432](https://user-images.githubusercontent.com/88886118/205448343-1ed041cd-4cf2-4ae6-94dc-2c33e6b3b9be.jpeg)
 
