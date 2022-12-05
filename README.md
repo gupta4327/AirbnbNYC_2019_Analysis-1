@@ -51,13 +51,24 @@ Availability 365 - It is the no. of days for which a rental is available to book
 # 🌱 Some Exciting Glimpse of the Visuals:
 
 ![download (9)](https://user-images.githubusercontent.com/88886118/205596880-645f8fd8-c352-47d4-a949-ce9d31b52187.png)
+
 From the above charts, we can observe that the majority of hostings come from Brooklyn and Manhattan, but Staten Island and the Bronx are way too less populous in terms of hostings.
 
 ![hello1](https://user-images.githubusercontent.com/88886118/205603295-7f1df20f-1b3a-4322-ada0-5b5257a6237b.png)
+
 Although Queens has the most neighbourhoods and Manhattan has the fewest, Manhattan has the most rentals.
 
 ![download (21)](https://user-images.githubusercontent.com/88886118/205603639-d85d7904-2f9f-41ea-81bb-35156395b9c7.png)
+
 Manhattan is one of the most expensive boroughs for hosting, followed by Brooklyn. Manhattan contains the majority of the tourist attractions, such as Times Squares, which may be the cause of the price increases.
+
+![download (22)](https://user-images.githubusercontent.com/88886118/205604943-5348b993-a54f-4b63-81c4-a509cd05ad60.png)
+
+The majority of rentals are for entire homes or private rooms, with only a few exceptions for shared rooms. Visitors may not prefer a shared room.
+
+![download (23)](https://user-images.githubusercontent.com/88886118/205606221-e87ca2bc-9ed2-446a-a517-f299a6dcee03.png)
+
+Although there does not appear to be any exact relationship owing to outliers in Price, one insight we gained is that generally, those with a higher number of reviews had lower prices.
 
 
 # 💡 Conclusions
