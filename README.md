@@ -3,8 +3,6 @@
 
 ![Airbnb-to-disrupt-luxury-hotel-market-with-expected-acquisition-768x432](https://user-images.githubusercontent.com/88886118/205448343-1ed041cd-4cf2-4ae6-94dc-2c33e6b3b9be.jpeg)
 
-# Architecture
-![137479294-ccfa21f9-81e1-4de8-8f96-15ddefdec06e](https://user-images.githubusercontent.com/88886118/205452110-5ca9c64f-adb6-402c-bcd6-522d3fb1c6bc.jpeg)
 
 # 📝Problem Statement
 
@@ -52,6 +50,9 @@ Availability 365 - It is the no. of days for which a rental is available to book
 
 # 🌱 Some Exciting Glimpse of the Visuals:
 
+![download (9)](https://user-images.githubusercontent.com/88886118/205596880-645f8fd8-c352-47d4-a949-ce9d31b52187.png)
+From the above charts, we can observe that the majority of hostings come from Brooklyn and Manhattan, but Staten Island and the Bronx are way too less populous in terms of hostings.
+
 # 💡 Conclusions
 
 
@@ -93,5 +94,7 @@ Manhattan is most expensive borough in each of the room types, Brooklyn follows 
 [Project_Summary_airbnb.pdf](https://github.com/smriti192002/AirbnbNYC_2019_Analysis/blob/main/Documents/Project_Summary_airbnb.pdf)
 
 [Technical Document](https://github.com/smriti192002/AirbnbNYC_2019_Analysis/blob/main/Documents/Technical%20Document%20-%20Airbnb%20.docx.pdf)
+
+
 
 
